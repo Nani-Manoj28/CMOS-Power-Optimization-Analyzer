@@ -1,5 +1,4 @@
 # CMOS Power Optimization Analyzer
-
 A Python web dashboard for analyzing power consumption in CMOS circuits.
 
 ## Features
