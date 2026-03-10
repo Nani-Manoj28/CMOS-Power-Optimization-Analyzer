@@ -1,16 +1,19 @@
 # CMOS Power Optimization Analyzer
 
-A Python web dashboard for analyzing dynamic power consumption in CMOS circuits.
+A Python web dashboard for analyzing power consumption in CMOS circuits.
 
 ## Features
-- Calculates CMOS dynamic power
+- Calculates dynamic power consumption
 - Suggests optimized voltage
-- Interactive visualization
+- Displays voltage vs power graph
 
 ## Technologies
-Python, Streamlit, NumPy, Matplotlib
+- Python
+- Streamlit
+- NumPy
+- Matplotlib
 
-## Run Locally
+## How to Run
 
 pip install -r requirements.txt
 streamlit run cmos_power_webapp.py
